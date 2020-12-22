@@ -1,0 +1,2 @@
+./teamredminer -a ethash -o stratum+tcp://eu1.ethermine.org:4444 -u 0xC427B3B96D30dd2098c9f2cbBb1506b0A07e78C6.quarry4 \
+-p x --fan_default_polaris=68::70:90 --temp_limit=79 --temp_resume=65 --watchdog_script=watchdog_sysrq.sh --eth_dag_buf=S
